@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactAppFinalAuthFluentMVC", "ContactAppFinalAuthFluentMVC\ContactAppFinalAuthFluentMVC.csproj", "{3889A54C-0FD9-489A-97E8-6AA31E87721E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3889A54C-0FD9-489A-97E8-6AA31E87721E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3889A54C-0FD9-489A-97E8-6AA31E87721E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3889A54C-0FD9-489A-97E8-6AA31E87721E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3889A54C-0FD9-489A-97E8-6AA31E87721E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F473CB8-460F-4241-A5AC-9B62D29D7E96}
+	EndGlobalSection
+EndGlobal

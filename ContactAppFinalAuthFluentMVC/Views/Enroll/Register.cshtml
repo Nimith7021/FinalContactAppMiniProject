@@ -1,0 +1,67 @@
+﻿@model ContactAppFinalAuthFluentMVC.Models.User
+
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2 class="display-3 text-center">User Registration</h2>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal container border  w-50 shadow">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group d-flex m-3 ms-5">
+            @Html.LabelFor(model => model.FName, htmlAttributes: new { @class = "control-label col-md-2 m-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.FName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.FName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group container d-flex ms-5">
+            @Html.LabelFor(model => model.LName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.LName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.LName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group container d-flex ms-5 m-2">
+            @Html.LabelFor(model => model.IsAdmin, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.IsAdmin)
+                    @Html.ValidationMessageFor(model => model.IsAdmin, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        @*<div class="form-group">
+            @Html.LabelFor(model => model.IsActive, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.IsActive)
+                    @Html.ValidationMessageFor(model => model.IsActive, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>*@
+
+        <div class="form-group container d-flex ms-5 m-3">
+            @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group container mb-3 text-center" >
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-outline-success" />
+            </div>
+        </div>
+    </div>
+}
+
+

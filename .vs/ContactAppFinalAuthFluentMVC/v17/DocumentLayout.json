@@ -1,0 +1,628 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\controllers\\contactdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\controllers\\contactdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\views\\contact\\getcontacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\views\\contact\\getcontacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\scripts\\mycrud.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\scripts\\mycrud.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\views\\shared\\_editrecordpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\views\\shared\\_editrecordpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\contactappfinalauthfluentmvc\\contactappfinalauthfluentmvc\\controllers\\enrollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\controllers\\enrollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\views\\contactdetail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\views\\contactdetail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\scripts\\mygrid.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\scripts\\mygrid.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\contactappfinalauthfluentmvc\\contactappfinalauthfluentmvc\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\views\\user\\getallusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\views\\user\\getallusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\views\\enroll\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\views\\enroll\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FinalContactDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\views\\shared\\_addrecordpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\views\\shared\\_addrecordpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\models\\contactdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\models\\contactdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FinalContactDB/True/SqlTable/dbo.Roles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\views\\enroll\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\views\\enroll\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\mappings\\rolemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\mappings\\rolemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FinalContactDB/True/SqlTable/dbo.ContactDetails.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\dto\\contactdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\dto\\contactdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\dto\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\dto\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\views\\contactdetail\\getcontactdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\views\\contactdetail\\getcontactdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\mappings\\contactmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\mappings\\contactmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\mappings\\contactdetailmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\mappings\\contactdetailmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\mappings\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\mappings\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FinalContactDB/True/SqlTable/dbo.Contacts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\webroleprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\webroleprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\contactappfinalauthfluentmvc\\data\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3889A54C-0FD9-489A-97E8-6AA31E87721E}|ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC.csproj|solutionrelative:contactappfinalauthfluentmvc\\data\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Controllers\\LogInController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ContactAppFinalAuthFluentMVC\\Controllers\\LogInController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAQwDgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:53:19.643Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyCrud.js",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Scripts\\MyCrud.js",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Scripts\\MyCrud.js",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Scripts\\MyCrud.js",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Scripts\\MyCrud.js",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-17T09:46:07.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_EditRecordPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Views\\Shared\\_EditRecordPartial.cshtml",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Views\\Shared\\_EditRecordPartial.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Views\\Shared\\_EditRecordPartial.cshtml",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Views\\Shared\\_EditRecordPartial.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T19:48:18.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T10:42:35.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetContacts.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Views\\Contact\\GetContacts.cshtml",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Views\\Contact\\GetContacts.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Views\\Contact\\GetContacts.cshtml",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Views\\Contact\\GetContacts.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T15:40:05.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Controllers\\ContactDetailController.cs",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Controllers\\ContactDetailController.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Controllers\\ContactDetailController.cs",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Controllers\\ContactDetailController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:53:36.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Views\\ContactDetail\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Views\\ContactDetail\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Views\\ContactDetail\\Index.cshtml",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Views\\ContactDetail\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T19:53:25.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "myGrid.js",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Scripts\\myGrid.js",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Scripts\\myGrid.js",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Scripts\\myGrid.js",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Scripts\\myGrid.js",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-18T13:26:58.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAllUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Views\\User\\GetAllUsers.cshtml",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Views\\User\\GetAllUsers.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Views\\User\\GetAllUsers.cshtml",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Views\\User\\GetAllUsers.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T10:53:02.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAA1wGYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:53:55.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnrollController.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Controllers\\EnrollController.cs",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Controllers\\EnrollController.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Controllers\\EnrollController.cs",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Controllers\\EnrollController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:10:26.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAC0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T11:26:31.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Views\\User\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T15:32:43.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FinalContactDB/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-15T08:30:49.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LogIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Views\\Enroll\\LogIn.cshtml",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Views\\Enroll\\LogIn.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Views\\Enroll\\LogIn.cshtml",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Views\\Enroll\\LogIn.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T08:01:43.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAqwDcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T08:10:41.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_AddRecordPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Views\\Shared\\_AddRecordPartial.cshtml",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Views\\Shared\\_AddRecordPartial.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Views\\Shared\\_AddRecordPartial.cshtml",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Views\\Shared\\_AddRecordPartial.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T18:16:47.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ContactDetail.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Models\\ContactDetail.cs",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Models\\ContactDetail.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Models\\ContactDetail.cs",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Models\\ContactDetail.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:28:55.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dbo.Roles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FinalContactDB/True/SqlTable/dbo.Roles.sql",
+              "ToolTip": "dbo.Roles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-15T07:16:22.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Views\\Enroll\\Register.cshtml",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Views\\Enroll\\Register.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Views\\Enroll\\Register.cshtml",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Views\\Enroll\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T08:02:55.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RoleMap.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Mappings\\RoleMap.cs",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Mappings\\RoleMap.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Mappings\\RoleMap.cs",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Mappings\\RoleMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:57:34.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dbo.ContactDetails [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FinalContactDB/True/SqlTable/dbo.ContactDetails.sql",
+              "ToolTip": "dbo.ContactDetails [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-15T07:18:19.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ContactDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\DTO\\ContactDetailDTO.cs",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\DTO\\ContactDetailDTO.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\DTO\\ContactDetailDTO.cs",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\DTO\\ContactDetailDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:21:26.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T07:01:21.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ContactDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\DTO\\ContactDTO.cs",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\DTO\\ContactDTO.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\DTO\\ContactDTO.cs",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\DTO\\ContactDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:23:20.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetContactDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Views\\ContactDetail\\GetContactDetails.cshtml",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Views\\ContactDetail\\GetContactDetails.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Views\\ContactDetail\\GetContactDetails.cshtml",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Views\\ContactDetail\\GetContactDetails.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T15:45:10.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ContactMap.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Mappings\\ContactMap.cs",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Mappings\\ContactMap.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Mappings\\ContactMap.cs",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Mappings\\ContactMap.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:51:16.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Models\\Contact.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:28:49.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ContactDetailMap.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Mappings\\ContactDetailMap.cs",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Mappings\\ContactDetailMap.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Mappings\\ContactDetailMap.cs",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Mappings\\ContactDetailMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:52:31.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Mapper.cs",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Mapper.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Mapper.cs",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Mapper.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:25:34.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserMap.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Mappings\\UserMap.cs",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Mappings\\UserMap.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Mappings\\UserMap.cs",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Mappings\\UserMap.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:50:42.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Models\\User.cs",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Models\\User.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA7wBcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:29:01.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Models\\Role.cs",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:30:31.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "dbo.Contacts [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/FinalContactDB/True/SqlTable/dbo.Contacts.sql",
+              "ToolTip": "dbo.Contacts [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-15T07:17:07.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "WebRoleProvider.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\WebRoleProvider.cs",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\WebRoleProvider.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\WebRoleProvider.cs",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\WebRoleProvider.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwC0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:23:42.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Web.config",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Web.config",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Web.config",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Web.config",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-15T08:04:38.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LogInController.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Controllers\\LogInController.cs",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Controllers\\LogInController.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Controllers\\LogInController.cs",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Controllers\\LogInController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T07:02:12.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "NHibernateHelper.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Data\\NHibernateHelper.cs",
+              "RelativeDocumentMoniker": "ContactAppFinalAuthFluentMVC\\Data\\NHibernateHelper.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\ContactAppFinalAuthFluentMVC\\ContactAppFinalAuthFluentMVC\\Data\\NHibernateHelper.cs",
+              "RelativeToolTip": "ContactAppFinalAuthFluentMVC\\Data\\NHibernateHelper.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAArwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:54:29.316Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
